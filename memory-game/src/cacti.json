@@ -1,0 +1,39 @@
+[
+    {
+        "id": 1,
+        "name": "cactus1",
+        "image": "../public/assets/images/cactus1.png"
+    },{
+        "id": 2,
+        "name": "cactus2",
+        "image": "../public/assets/images/cactus2.png"
+    },{
+        "id": 3,
+        "name": "cactus3",
+        "image": "../public/assets/images/cactus3.png"
+    },{
+        "id": 4,
+        "name": "cactus4",
+        "image": "../public/assets/images/cactus4.png"
+    },{
+        "id": 5,
+        "name": "cactus5",
+        "image": "../public/assets/images/cactus5.png"
+    },{
+        "id": 6,
+        "name": "cactus6",
+        "image": "../public/assets/images/cactus6.png"
+    },{
+        "id": 7,
+        "name": "cactus7",
+        "image": "../public/assets/images/cactus7.png"
+    },{
+        "id": 8,
+        "name": "cactus8",
+        "image": "../public/assets/images/cactus8.png"
+    },{
+        "id": 9,
+        "name": "cactus9",
+        "image": "../public/assets/images/cactus9.png"
+    }
+]

@@ -1,0 +1,19 @@
+body { padding-top: 70px; }
+
+.navbar {
+    background-color: black;
+    font-size: 28px;
+    font-family: 'Patrick Hand', cursive;
+    color: white;
+}
+
+ul .nav .navbar-nav a {
+    color: white;
+    font-family: 'Josefin Slab', serif;
+}
+
+ul .nav .navbar-nav a:hover {
+    background-color: black !important;
+    margin: 0 auto;
+    color: #d84789;
+};

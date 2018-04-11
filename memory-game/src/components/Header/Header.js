@@ -2,14 +2,15 @@ import React from "react";
 import "./Header.css";
 
 const Header = props => (
-    <div>
-        <ul className="nav nav-pills nav-justified">
-            <li><a href="/">Memory Game | Cactus Edition</a></li>
-            <li>
-            {props.message}</li>
-            <li>Score: {props.score} <span className="font-white">| Top Score: {props.topScore}</span></li>
+    <nav class="navbar navbar-default navbar-fixed-top">
+    <div className="container">
+        <ul className="nav navbar-nav">
+            <li><a href="/"><strong>Cactus Memory Game</strong></a></li>
+            <li>{props.message}</li>
+            <li>Score: {props.score} | Top Score: {props.topScore}</li>
         </ul>
     </div>
+    </nav>
 );
 
 export default Header;

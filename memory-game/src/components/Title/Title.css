@@ -1,7 +1,23 @@
 h1 {
-    font-family: 'Josefin Slab', serif;
+    font-family: 'Patrick Hand', cursive;
+    color: #7CC083;
 }
 
 p {
-    font-family: 'Patrick Hand', cursive;
+    font-family: 'Josefin Slab', serif;
+}
+
+.jumbotron {
+    background-color: white;
+    height: 275px;
+}
+
+.jumbotron p {
+    margin: 0;
+    font-size: 18px;
+}
+
+.jumbotron h1 {
+    color: #d84789;
+    font-size: 75px;
 }

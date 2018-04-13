@@ -1,19 +1,31 @@
-body { padding-top: 70px; }
+body { padding-top: 60px; }
 
 .navbar {
     background-color: black;
-    font-size: 28px;
+    font-size: 24px;
     font-family: 'Patrick Hand', cursive;
     color: white;
 }
 
-ul .nav .navbar-nav a {
+.nav-pills a {
     color: white;
-    font-family: 'Josefin Slab', serif;
 }
 
-ul .nav .navbar-nav a:hover {
+.nav-pills a:hover {
     background-color: black !important;
     margin: 0 auto;
     color: #d84789;
-};
+}
+
+.success, .fail {
+    font-family: 'Josefin Slab', serif;
+    font-size: 22px;
+}
+
+.success {
+    color: #7CC083;
+}
+
+.fail {
+    color: #EF7E5E;
+}

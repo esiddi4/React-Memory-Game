@@ -6,8 +6,8 @@ const Title = props => (
     <div className="container">
     <h1>Cactus Memory Game</h1>
     <br/>
-    <p>Click on a cactus to earn points, but don't *prick* the same one twice</p>
-    <p>or you will lose and the game will restart.</p>
+    <p>Click on a cactus to earn points, but don't click on any more than once</p>
+    <p>or you will lose and the game will restart!</p>
     </div>
   </div>
 )
